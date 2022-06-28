@@ -1,0 +1,2 @@
+# University-Project-Remote-Controlled-Model-Car
+This is a project about a selfmade remote controlled model car. It was carried out with two fellow students. Its hardware was created in SolidWorks and manufactured with carbon panels and 3D-printing. As remote we used a Xbox-One-Controller. It controls the steering and a tipping loading area with two identical stepmotors as well as the actuator with a servo motor. This program was a part ot this project and implemented by myself. 
